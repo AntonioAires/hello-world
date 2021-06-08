@@ -8,5 +8,5 @@ Vasta experiência de trabalho em equipas de desenvolvimento de software.
 - Programação em C/C++, Java, C#, Python
 - Bases de Dados e linguagem SQL
 - Criação de páginas Web (incl. HTML, CSS e Javascript)
-- Sistema Operativo Linux
+- Sistema Operativo Open Source Linux
 - Aplicações Office (Access; Excel; Word; PowerPoint)
